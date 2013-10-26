@@ -1,0 +1,5 @@
+.DS_Store
+#Cache
+app/cache/*
+#Log
+app/logs/*
