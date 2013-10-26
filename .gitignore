@@ -1,5 +1,5 @@
 .DS_Store
 #Cache
-app/cache/*
+app/cache/**/*
 #Log
-app/logs/*
+app/logs/**/*
